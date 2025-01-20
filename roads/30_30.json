@@ -1,0 +1,107 @@
+{
+  "lots1": {
+    "Name": "None_DarkAsphalt_6_ESW.tbx",
+    "North": "nones",
+    "East": "road",
+    "South": "road",
+    "West": "road"
+  },
+  "lots2": {
+    "Name": "None_DarkAsphalt_6_EW.tbx",
+    "North": "nones",
+    "East": "road",
+    "South": "nones",
+    "West": "road"
+  },
+  "lots3": {
+    "Name": "None_DarkAsphalt_6_NE.tbx",
+    "North": "road",
+    "East": "road",
+    "South": "nones",
+    "West": "nones"
+  },
+  "lots4": {
+    "Name": "None_DarkAsphalt_6_NES.tbx",
+    "North": "road",
+    "East": "road",
+    "South": "road",
+    "West": "nones"
+  },
+  "lots5": {
+    "Name": "None_DarkAsphalt_6_NESW.tbx",
+    "North": "road",
+    "East": "road",
+    "South": "road",
+    "West": "road"
+  },
+  "lots6": {
+    "Name": "None_DarkAsphalt_6_NEW.tbx",
+    "North": "road",
+    "East": "road",
+    "South": "nones",
+    "West": "road"
+  },
+  "lots7": {
+    "Name": "None_DarkAsphalt_6_NS.tbx",
+    "North": "road",
+    "East": "nones",
+    "South": "road",
+    "West": "nones"
+  },
+  "lots8": {
+    "Name": "None_DarkAsphalt_6_NSW.tbx",
+    "North": "road",
+    "East": "nones",
+    "South": "road",
+    "West": "road"
+  },
+  "lots9": {
+    "Name": "None_DarkAsphalt_6_NW.tbx",
+    "North": "road",
+    "East": "nones",
+    "South": "nones",
+    "West": "road"
+  },
+  "lots10": {
+    "Name": "None_DarkAsphalt_6_SE.tbx",
+    "North": "nones",
+    "East": "road",
+    "South": "road",
+    "West": "nones"
+  },
+  "lots12": {
+    "Name": "None_DarkAsphalt_6_NS.tbx",
+    "North": "road",
+    "East": "nones",
+    "South": "nones",
+    "West": "nones"
+  },
+  "lots13": {
+    "Name": "None_DarkAsphalt_6_NS.tbx",
+    "North": "nones",
+    "East": "nones",
+    "South": "road",
+    "West": "nones"
+  },
+  "lots14": {
+    "Name": "None_DarkAsphalt_6_EW.tbx",
+    "North": "nones",
+    "East": "nones",
+    "South": "nones",
+    "West": "road"
+  },
+  "lots15": {
+    "Name": "None_DarkAsphalt_6_EW.tbx",
+    "North": "nones",
+    "East": "road",
+    "South": "nones",
+    "West": "nones"
+  },
+  "lots16": {
+    "Name": "None_DarkAsphalt_6_SW.tbx",
+    "North": "nones",
+    "East": "nones",
+    "South": "road",
+    "West": "road"
+  }
+}
