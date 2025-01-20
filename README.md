@@ -8,7 +8,7 @@ I'm an newbie, so my code is probably not perfect. I ask people who understand p
 # About Zeta: City Engine
 Zeta: City Engine is an unfinished prototype of a procedural city generator for the game Project Zomboid. At the moment, the procedural generator can only create the basis for small American-style cities. The generator creates the external roads of the districts. It was planned that in the future it would place roads within areas and attach buildings to them. **This is not implemented at the moment**.
 
-![Example of work](https://github.com/user-attachments/assets/f066f7c7-4588-4689-9c1a-0b27fead7e2c)
+![Work Example](https://github.com/user-attachments/assets/aca708db-80c5-4543-9115-0945bfd762fd)
 The photo shows an example of how the program works. If you manage to implement the functions described below, you will receive a completely ready-made simple city generator.
 
 In addition to City Engine, there is also World Engine, which is currently in closed access, since its technology is outdated due to this program. It was planned that after all the cities were generated, they would be placed in a completely empty world. After this, the World Engine was supposed to generate roads between cities, as well as forests, lakes, small random farms, etc. 
@@ -21,7 +21,8 @@ In addition to City Engine, there is also World Engine, which is currently in cl
 5. Launch the program. A file with a new map will appear in the **result** folder. Drag this file into the **tmxworld** folder, which is located in the **project** folder.
 6. Ready. You can run the project in WorldEd. If you did everything correctly, then you should see something like the following:
    
-![example](https://github.com/user-attachments/assets/e8affc4a-91dc-4ab9-8f9d-a78aff2ccb66)
+![Example](https://github.com/user-attachments/assets/1be44aa8-50d4-4fa6-8b63-6a0686a5be4b)
+
 
 
 # Features (implemented and not implemented)
